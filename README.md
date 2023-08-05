@@ -2,7 +2,7 @@
 
 
 
- # ![](https://img.shields.io/badge/Mongoose-ExpressJs-blue) ![](https://img.shields.io/badge/license-MIT-brightgreen) ![](https://img.shields.io/badge/Mongodb-orange) ![](https://img.shields.io/badge/node.js-Routes-red) 
+ # ![](https://img.shields.io/badge/Mongoose-ExpressJs-blue) ![](https://img.shields.io/badge/license-MIT-brightgreen) ![](https://img.shields.io/badge/Mongodb-orange) ![](https://img.shields.io/badge/node.js-graphql-red) 
 
 
 
@@ -59,7 +59,22 @@ Install MangoDb In Your Local Machine.
 
 ## Dependencies
 
-Concurrently,Mongoose,MongoDB,Nodemon,apollo-server-express,bcrypt,express,graphql,jsonwebtoken,React,react-dom,graphql,bootstrap,react-router-dom,apollo-client,jwt-decode,react-scripts.
+ 1.React
+ 2.Mongoose
+ 3.MongoDB
+ 4.Nodemon
+ 5.apollo-server-express
+ 6.bcrypt,express
+ 7.graphql
+ 8.jsonwebtoken
+ 9.Concurrently
+ 10.react-dom
+ 11.graphql
+ 12.bootstrap
+ 13.react-router-dom
+ 14.apollo-client
+ 15.jwt-decode
+ 16.react-scripts.
 
 ## Language and Technology Used
 

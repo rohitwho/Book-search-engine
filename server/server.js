@@ -1,4 +1,5 @@
 const express = require('express');
+const dotenv = require ("dotenv").config();
 // Import the ApolloServer class
 const path = require("path")
 const { ApolloServer } = require('apollo-server-express');

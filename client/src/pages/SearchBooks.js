@@ -119,7 +119,7 @@ const SearchBooks = () => {
               <Col md="4" key={book.bookId}>
                 <Card border="dark" className="mb-3">
                   {book.image ? (
-                    <Card.Img
+                    <Card.Img  style={{ objectFit: "cover" }}
                       src={book.image}
                       alt={`The cover for ${book.title}`}
                       variant="top"
